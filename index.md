@@ -8,4 +8,5 @@ The workshop participants were:
 * Anna
 * Larissa Amorim
 * Larissa Antunes Amaral
+* Matthew Battley
 * Paul Strøm
