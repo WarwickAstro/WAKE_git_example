@@ -10,4 +10,5 @@ The workshop participants were:
 * Larissa Antunes Amaral
 * Matthew Battley
 * Paul Strøm
+* Raphael
 * Sergio
