@@ -9,6 +9,7 @@ The workshop participants were:
 * Larissa Amorim
 * Larissa Antunes Amaral
 * Matthew Battley
+* Matthew Hoskin
 * Paul Strøm
 * Raphael
 * Sergio
