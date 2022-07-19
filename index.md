@@ -6,6 +6,7 @@ The workshop participants were:
 
 * Amena Faruqi
 * Anna
+* Brandon Rajkumar
 * Larissa Amorim
 * Larissa Antunes Amaral
 * Matthew Battley
