@@ -4,6 +4,10 @@ This repository/website provides a demonstration on how to fork, clone, and coll
 
 The workshop participants were:
 
+* Amena Faruqi
+* Anna
+* Larissa Amorim
+* Larissa Antunes Amaral
+* Matthew Battley
+* Paul Strøm
 * Sergio
-
-modified version
