@@ -4,6 +4,5 @@ This repository/website provides a demonstration on how to fork, clone, and coll
 
 The workshop participants were:
 
-• Not Gareth Jones
-* (your name here)
+* Gareth Jones
 
