@@ -6,4 +6,4 @@ The workshop participants were:
 
 * Larissa Amorim
 * Larissa Antunes Amaral
-
+* Paul Strøm
